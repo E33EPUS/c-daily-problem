@@ -24,6 +24,8 @@
     "max_version": "2.99.99"
   },
   "dependencies": [],
+  "keywords": ["C语言", "编程", "学习", "每日一题", "刷题", "代码阅读"],
+  "categories": ["教育", "编程学习"],
   "capabilities": [
     "send.text"
   ],
