@@ -1,0 +1,34 @@
+{
+  "manifest_version": 2,
+  "version": "2.0.0",
+  "id": "E33EPUS.c-daily-problem",
+  "name": "C语言每日一题",
+  "description": "C语言程序阅读题，AI出题+题库兜底，不限次数。指令：/每日一题 /再来一题 /答 /答案 /题解",
+  "author": {
+    "name": "E33EPUS",
+    "url": "https://github.com/E33EPUS"
+  },
+  "license": "GPL-3.0-or-later",
+  "urls": {
+    "repository": "https://github.com/E33EPUS/c-daily-problem",
+    "homepage": "https://github.com/E33EPUS/c-daily-problem",
+    "documentation": "https://github.com/E33EPUS/c-daily-problem/blob/main/README.md",
+    "issues": "https://github.com/E33EPUS/c-daily-problem/issues"
+  },
+  "host_application": {
+    "min_version": "1.0.0",
+    "max_version": "1.99.99"
+  },
+  "sdk": {
+    "min_version": "2.0.0",
+    "max_version": "2.99.99"
+  },
+  "dependencies": [],
+  "capabilities": [
+    "send.text"
+  ],
+  "i18n": {
+    "default_locale": "zh-CN",
+    "supported_locales": ["zh-CN"]
+  }
+}
