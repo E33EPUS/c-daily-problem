@@ -8,7 +8,7 @@
     "name": "E33EPUS",
     "url": "https://github.com/E33EPUS"
   },
-  "license": "GPL-3.0-or-later",
+  "license": "MIT",
   "urls": {
     "repository": "https://github.com/E33EPUS/c-daily-problem",
     "homepage": "https://github.com/E33EPUS/c-daily-problem",
